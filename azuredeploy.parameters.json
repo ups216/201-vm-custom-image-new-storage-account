@@ -18,7 +18,7 @@
       "value": "https://lxsysprep02rgdisks295.blob.core.windows.net/system/Microsoft.Compute/Images/images/lx-tempalte-osDisk.848be549-ca87-4e00-b6e6-7c57c5122dfd.vhd"
     },
     "customImageName": {
-      "value": "system/Microsoft.Compute/Images/images/lx-tempalte-osDisk.848be549-ca87-4e00-b6e6-7c57c5122dfd.vhd"
+      "value": "Microsoft.Compute/Images/images/lx-tempalte-osDisk.848be549-ca87-4e00-b6e6-7c57c5122dfd.vhd"
     },
     "transferVmName": {
       "value": "TransferVM"
